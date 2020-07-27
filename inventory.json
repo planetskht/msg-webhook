@@ -1,0 +1,18 @@
+{
+  "scheduleId": "123",
+  "file": {
+    "url": "https://gist.githubusercontent.com/ghanshyamdrathod/48efcbf8560079a0fdda0371c24ef022/raw/6af360c831502cb1b790b8c07366224ca93ea02e/sample.csv",
+    "login": "test",
+    "password": "test123",
+    "columnSeparator": "comma(,)"
+  },
+  "nextRun": "2020-07-03T09:19:25.773Z",
+  "cronExpression": "string",
+  "timeZoneId": "12345",
+  "mappings": [
+    {
+      "attributeId": "1",
+      "fileAttributeName": "name"
+    }
+  ]
+}
