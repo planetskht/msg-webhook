@@ -1,7 +1,7 @@
 {
   "scheduleId": "123",
   "file": {
-    "url": "https://gist.githubusercontent.com/ghanshyamdrathod/48efcbf8560079a0fdda0371c24ef022/raw/6af360c831502cb1b790b8c07366224ca93ea02e/sample.csv",
+    "url": "https://gist.githubusercontent.com/planetskht/554aa25acac4397c2d91a4887fc21e98/raw/687ce1776cbe76b537ac0b8a411ebfcd01eba401/sample.csv",
     "login": "test",
     "password": "test123",
     "columnSeparator": "comma(,)"
