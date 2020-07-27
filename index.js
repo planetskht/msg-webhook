@@ -10,6 +10,14 @@ const
 app.listen(process.env.PORT || 1337, () => console.log('webhook is listening'));
 
 
+app.get('/inventorydetails', function (req, res) {
+   fs.readFile( __dirname + "/" + "inventory.json", 'utf8', function (err, data) {
+      console.log( data );
+      res.end( data );
+   });
+})
+
+
 // Creates the endpoint for our webhook 
 app.post('/webhook', (req, res) => {  
  
