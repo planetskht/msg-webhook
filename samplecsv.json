@@ -1,0 +1,136 @@
+{
+   "headers": [
+      "Product ID",
+      "Category 1",
+      "Category 2",
+      "Category 3",
+      "Category 4",
+      "Name",
+      "Currency",
+      "Price",
+      "Page_URL",
+      "Image_URL"
+   ],
+   "mappings": [
+      {
+         "tagId": "id",
+         "displayName": "Product ID",
+         "fieldName": "Category 2"
+      },
+      {
+         "tagId": "name",
+         "displayName": "Name",
+         "fieldName": "Name"
+      },
+      {
+         "tagId": "pageurl",
+         "displayName": "Page URL",
+         "fieldName": "Page_URL"
+      },
+      {
+         "tagId": "attr1",
+         "displayName": "Category 1",
+         "fieldName": ""
+      },
+      {
+         "tagId": "attr2",
+         "displayName": "Category 2",
+         "fieldName": ""
+      },
+      {
+         "tagId": "imageurl",
+         "displayName": "Image URL",
+         "fieldName": "Image_URL"
+      },
+      {
+         "tagId": "thumbimageurl",
+         "displayName": "Thumb Image URL",
+         "fieldName": ""
+      },
+      {
+         "tagId": "price",
+         "displayName": "Price",
+         "fieldName": "Price"
+      },
+      {
+         "tagId": "currency",
+         "displayName": "Currency",
+         "fieldName": "Currency"
+      },
+      {
+         "tagId": "countinstock",
+         "displayName": "Count In Stock",
+         "fieldName": ""
+      },
+      {
+         "tagId": "description",
+         "displayName": "Description",
+         "fieldName": ""
+      },
+      {
+         "tagId": "isdeleted",
+         "displayName": "Is Deleted",
+         "fieldName": ""
+      },
+      {
+         "tagId": "isrecommendable",
+         "displayName": "Is Recommendable",
+         "fieldName": ""
+      },
+      {
+         "tagId": "custom1",
+         "displayName": "Category 1",
+         "fieldName": "Category 1"
+      },
+      {
+         "tagId": "custom2",
+         "displayName": "Custom 2",
+         "fieldName": ""
+      },
+      {
+         "tagId": "custom3",
+         "displayName": "Custom 3",
+         "fieldName": ""
+      },
+      {
+         "tagId": "custom4",
+         "displayName": "Custom 4",
+         "fieldName": ""
+      },
+      {
+         "tagId": "custom5",
+         "displayName": "Custom 5",
+         "fieldName": ""
+      },
+      {
+         "tagId": "custom6",
+         "displayName": "Custom 6",
+         "fieldName": ""
+      },
+      {
+         "tagId": "custom7",
+         "displayName": "Custom 7",
+         "fieldName": ""
+      },
+      {
+         "tagId": "custom8",
+         "displayName": "Custom 8",
+         "fieldName": ""
+      },
+      {
+         "tagId": "custom9",
+         "displayName": "Custom 9",
+         "fieldName": ""
+      },
+      {
+         "tagId": "attr3",
+         "displayName": "Category 3",
+         "fieldName": ""
+      },
+      {
+         "tagId": "attr4",
+         "displayName": "Category 4",
+         "fieldName": ""
+      }
+   ]
+}
