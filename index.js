@@ -26,6 +26,13 @@ app.get('/inventorydetails', function (req, res) {
    });
 })
 
+app.post('/importcsv', function (req, res) {
+   fs.readFile( __dirname + "/" + "samplecsv.json", 'utf8', function (err, data) {
+      console.log( data );
+      res.end( data );
+   });
+})
+
 
 // Creates the endpoint for our webhook 
 app.post('/webhook', (req, res) => {  
