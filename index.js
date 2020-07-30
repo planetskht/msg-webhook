@@ -18,6 +18,9 @@ var fs = require("fs");
 // Sets server port and logs message on success
 app.listen(process.env.PORT || 1337, () => console.log('webhook is listening'));
 
+app.get('/newinventory', function (req, res) {
+   res.end( {} );
+})
 
 app.get('/inventorydetails', function (req, res) {
    fs.readFile( __dirname + "/" + "inventory.json", 'utf8', function (err, data) {
