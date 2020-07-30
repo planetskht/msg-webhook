@@ -19,7 +19,7 @@ var fs = require("fs");
 app.listen(process.env.PORT || 1337, () => console.log('webhook is listening'));
 
 app.get('/newinventory', function (req, res) {
-   res.end( {} );
+   res.status(200).send('');
 })
 
 app.get('/inventorydetails', function (req, res) {
