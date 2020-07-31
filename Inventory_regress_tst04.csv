@@ -1,5 +1,5 @@
 Pr_ID,Name,Category1,Category2,Price,Curren,Page_URL,Image_URL,Count,Is_Del,Is_Rec,Thumbs_Image_URL
-1,Prod_01,Category1_01,Category2_01,1.99,USD,https://avalon-shop.herokuapp.com/index.html,http://01.jpg,2,0,1,https://drive.google.com/file/d/1e4IBK881HCJmyIkuRFZMmcVJEhahGnjC/preview
-2,Prod_02,Category1_02,Category2_02,2.99,GBP,https://avalon-shop.herokuapp.com/index.html,http://02.jpg,2,0,1,https://drive.google.com/file/d/1LtfksVvUyCeujNVCFFTBRQNY0eNoh5vm/preview
-3,Prod_03,Category1_03,Category2_03,3.99,JPY,https://avalon-shop.herokuapp.com/index.html,http://03.jpg,1,0,1,https://drive.google.com/file/d/1WLUYAhLu2msi2As06RJNSWekyzCc4DYW/preview
+1,Prod_01,Category1_01,Category2_01,1.99,USD,https://avalon-shop.herokuapp.com/index.html,http://01.jpg,2,0,1,https://image.shutterstock.com/image-photo/mountains-during-sunset-beautiful-natural-260nw-407021107.jpg
+2,Prod_02,Category1_02,Category2_02,2.99,GBP,https://avalon-shop.herokuapp.com/index.html,http://02.jpg,2,0,1,https://image.shutterstock.com/image-photo/mountains-during-sunset-beautiful-natural-260nw-407021107.jpg
+3,Prod_03,Category1_03,Category2_03,3.99,JPY,https://avalon-shop.herokuapp.com/index.html,http://03.jpg,1,0,1,https://image.shutterstock.com/image-photo/mountains-during-sunset-beautiful-natural-260nw-407021107.jpg
 4,Prod_04,Category1_04,Category2_04,4.99,INR,https://avalon-shop.herokuapp.com/index.html,http://04.jpg,6,0,1,https://image.shutterstock.com/image-photo/mountains-during-sunset-beautiful-natural-260nw-407021107.jpg
