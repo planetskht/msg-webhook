@@ -4,7 +4,7 @@
     "url": "https://gist.githubusercontent.com/planetskht/554aa25acac4397c2d91a4887fc21e98/raw/687ce1776cbe76b537ac0b8a411ebfcd01eba401/sample.csv",
     "login": "test",
     "password": "test123",
-    "columnSeparator": "comma(,)"
+    "separator": "comma"
   },
   "nextRun": "2020-07-03T09:19:25.773Z",
   "cronExpression": "string",
