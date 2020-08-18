@@ -8,16 +8,17 @@
   },
   "nextRun": "2020-07-03T09:19:25.773Z",
   "cronExpression": "string",
-  "timeZoneId": "12345",
+  "timeZoneId": "IST",
   "totalItems": 999,
   "mappingCount": 8,
   "errorCount": 2,
   "creationDate": "2020-07-03T09:19",
   "lastImportedDate": "2020-07-03T09:19",
   "mappings": [
-    {
-      "attributeId": "1",
-      "fileAttributeName": "name"
-    }
+    { attributeId: 'id', fileAttributeName: 'Category 2' },
+    { attributeId: 'name', fileAttributeName: 'Name' },
+    { attributeId: 'imageurl', fileAttributeName: 'Image_URL' },
+    { attributeId: 'price', fileAttributeName: 'Price' },
+    { attributeId: 'currency', fileAttributeName: 'Currency' }
   ]
 }
