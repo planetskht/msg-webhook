@@ -15,10 +15,10 @@
   "creationDate": "2020-07-03T09:19",
   "lastImportedDate": "2020-07-03T09:19",
   "mappings": [
-    { attributeId: 'id', fileAttributeName: 'Category 2' },
-    { attributeId: 'name', fileAttributeName: 'Name' },
-    { attributeId: 'imageurl', fileAttributeName: 'Image_URL' },
-    { attributeId: 'price', fileAttributeName: 'Price' },
-    { attributeId: 'currency', fileAttributeName: 'Currency' }
+    { "attributeId": 'id', "fileAttributeName": 'Category 2' },
+    { "attributeId": 'name', "fileAttributeName": 'Name' },
+    { "attributeId": 'imageurl', "fileAttributeName": 'Image_URL' },
+    { "attributeId": 'price', "fileAttributeName": 'Price' },
+    { "attributeId": 'currency', "fileAttributeName": 'Currency' }
   ]
 }
