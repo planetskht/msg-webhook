@@ -22,6 +22,13 @@ app.get('/newinventory', function (req, res) {
    res.status(200).send('{}');
 })
 
+app.post('/saveinventory', function (req, res) {
+   fs.readFile( __dirname + "/" + "inventory.json", 'utf8', function (err, data) {
+      console.log( data );
+      res.end( data );
+   });
+})
+
 app.get('/inventorydetails', function (req, res) {
    fs.readFile( __dirname + "/" + "inventory.json", 'utf8', function (err, data) {
       console.log( data );
