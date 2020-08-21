@@ -8,7 +8,7 @@
   },
   "nextRun": "2020-07-03T09:19:25.773Z",
   "cronExpression": "0 */4 * * *",
-  "timeZoneId": "IST",
+  "timeZoneId": "India Standard Time",
   "totalItems": 999,
   "mappingCount": 8,
   "errorCount": 2,
