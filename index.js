@@ -29,6 +29,14 @@ app.post('/saveinventory', function (req, res) {
    });
 })
 
+app.get('/actlinking1', function (req, res) {
+   res.status(200).send(Math.random() < 0.5);
+})
+
+app.post('/actlinking', function (req, res) {
+   res.status(200).send(Math.random() < 0.5);
+})
+
 app.get('/inventorydetails', function (req, res) {
    fs.readFile( __dirname + "/" + "inventory.json", 'utf8', function (err, data) {
       console.log( data );
