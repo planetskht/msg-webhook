@@ -59,6 +59,13 @@ app.get('/inventoryconfiguration/v1/tenants/0p32k3yq/projects/0p32k3yq/schedules
    });
 })
 
+app.get('/configuration/v1/tenants/0p32k3yq/projects/0p32k3yq/InventoryAttributes', function (req, res) {
+   fs.readFile( __dirname + "/" + "invattr.json", 'utf8', function (err, data) {
+      console.log( data );
+      res.end( data );
+   });
+})
+
 app.get('/inventoryconfiguration/v1/tenants/0p32k3yq/projects/0p32k3yq/schedules', function (req, res) {
    fs.readFile( __dirname + "/" + "schedules.json", 'utf8', function (err, data) {
       console.log( data );
