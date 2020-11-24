@@ -1,0 +1,193 @@
+{
+    "items": [
+        {
+            "id": "0p32k3yq",
+            "name": "Product ID",
+            "type": "Identity",
+            "availableOperators": []
+        },
+        {
+            "id": "qd4ew4zl",
+            "name": "Custom 11",
+            "type": "ShortText",
+            "availableOperators": [
+                "Match",
+                "NotMatch"
+            ]
+        },
+        {
+            "id": "kpmwr31q",
+            "name": "Custom 10",
+            "type": "ShortText",
+            "availableOperators": [
+                "Match",
+                "NotMatch"
+            ]
+        },
+        {
+            "id": "y14oz37z",
+            "name": "Custom 9",
+            "type": "ShortText",
+            "availableOperators": [
+                "Match",
+                "NotMatch"
+            ]
+        },
+        {
+            "id": "jem0rmqn",
+            "name": "Custom 8",
+            "type": "ShortText",
+            "availableOperators": [
+                "Match",
+                "NotMatch"
+            ]
+        },
+        {
+            "id": "2041wmwk",
+            "name": "Custom 7",
+            "type": "ShortText",
+            "availableOperators": [
+                "Match",
+                "NotMatch"
+            ]
+        },
+        {
+            "id": "ro46l4x8",
+            "name": "Custom 6",
+            "type": "ShortText",
+            "availableOperators": [
+                "Match",
+                "NotMatch"
+            ]
+        },
+        {
+            "id": "elmln4jv",
+            "name": "Custom 5",
+            "type": "ShortText",
+            "availableOperators": [
+                "Match",
+                "NotMatch"
+            ]
+        },
+        {
+            "id": "7wmznmqv",
+            "name": "Custom 4",
+            "type": "ShortText",
+            "availableOperators": [
+                "Match",
+                "NotMatch"
+            ]
+        },
+        {
+            "id": "ke4xymw0",
+            "name": "Custom 3",
+            "type": "ShortText",
+            "availableOperators": [
+                "Match",
+                "NotMatch"
+            ]
+        },
+        {
+            "id": "1w3yn4y0",
+            "name": "Custom 2",
+            "type": "ShortText",
+            "availableOperators": [
+                "Match",
+                "NotMatch"
+            ]
+        },
+        {
+            "id": "dgmq93p2",
+            "name": "Custom 1",
+            "type": "ShortText",
+            "availableOperators": [
+                "Match",
+                "NotMatch"
+            ]
+        },
+        {
+            "id": "6249r4rq",
+            "name": "Count In Stock",
+            "type": "Numeric",
+            "availableOperators": [
+                "Equals",
+                "Greater",
+                "GreaterOrEqual",
+                "Less",
+                "LessOrEqual"
+            ]
+        },
+        {
+            "id": "wr3dlm6l",
+            "name": "Image URL",
+            "type": "LongText",
+            "availableOperators": []
+        },
+        {
+            "id": "9z3rkmro",
+            "name": "Description",
+            "type": "LongText",
+            "availableOperators": []
+        },
+        {
+            "id": "lrmg7m5p",
+            "name": "Currency",
+            "type": "ShortText",
+            "availableOperators": [
+                "Match",
+                "NotMatch"
+            ]
+        },
+        {
+            "id": "g145xmxn",
+            "name": "Price",
+            "type": "Numeric",
+            "availableOperators": [
+                "Equals",
+                "Greater",
+                "GreaterOrEqual",
+                "Less",
+                "LessOrEqual"
+            ]
+        },
+        {
+            "id": "1o4vqmw0",
+            "name": "Thumb Image URL",
+            "type": "LongText",
+            "availableOperators": []
+        },
+        {
+            "id": "gp38k391",
+            "name": "Page URL",
+            "type": "LongText",
+            "availableOperators": []
+        },
+        {
+            "id": "gw4ne40d",
+            "name": "Name",
+            "type": "ShortText",
+            "availableOperators": [
+                "Match",
+                "NotMatch"
+            ]
+        },
+        {
+            "id": "r54714p9",
+            "name": "Custom 12",
+            "type": "ShortText",
+            "availableOperators": [
+                "Match",
+                "NotMatch"
+            ]
+        },
+        {
+            "id": "kgmjr4ne",
+            "name": "Custom 13",
+            "type": "ShortText",
+            "availableOperators": [
+                "Match",
+                "NotMatch"
+            ]
+        }
+    ]
+}
