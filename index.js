@@ -52,6 +52,43 @@ app.post('/importcsv', function (req, res) {
 })
 
 
+app.get('/inventoryconfiguration/v1/tenants/0p32k3yq/projects/0p32k3yq/schedules', function (req, res) {
+   fs.readFile( __dirname + "/" + "schedules.json", 'utf8', function (err, data) {
+      console.log( data );
+      res.end( data );
+   });
+})
+
+app.get('/inventoryconfiguration/v1/tenants/0p32k3yq/projects/0p32k3yq/schedules', function (req, res) {
+   fs.readFile( __dirname + "/" + "schedules.json", 'utf8', function (err, data) {
+      console.log( data );
+      res.end( data );
+   });
+})
+
+app.post('/inventoryconfiguration/v1/tenants/0p32k3yq/projects/0p32k3yq/schedules', function (req, res) {
+   fs.readFile( __dirname + "/" + "schedules.json", 'utf8', function (err, data) {
+      console.log( data );
+      res.end( data );
+   });
+})
+
+app.put('/inventoryconfiguration/v1/tenants/0p32k3yq/projects/0p32k3yq/schedules', function (req, res) {
+   res.status(200).send('{}');
+})
+
+app.delete('/inventoryconfiguration/v1/tenants/0p32k3yq/projects/0p32k3yq/schedules/:id', function (req, res) {
+   res.status(200).send('{}');
+})
+
+app.post('/inventory/v1/preview/header', function (req, res) {
+   fs.readFile( __dirname + "/" + "headers.json", 'utf8', function (err, data) {
+      console.log( data );
+      res.end( data );
+   });
+})
+
+
 // Creates the endpoint for our webhook 
 app.post('/webhook', (req, res) => {  
  
