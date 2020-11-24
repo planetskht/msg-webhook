@@ -1,0 +1,3 @@
+{
+  headers: ['Product ID', 'Name', 'url', 'Description', 'Currency', 'Price', 'Page URL']
+}
