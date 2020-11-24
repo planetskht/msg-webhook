@@ -1,0 +1,31 @@
+{
+    "scheduleId": "6249qr3r",
+    "file": {
+        "url": "https://gist.githubusercontent.com/planetskht/554aa25acac4397c2d91a4887fc21e98/raw/1a9fd73247b30a844ab964923c5de28582dc773a/sample.csv",
+        "importMode": "override",
+        "columnSeparator": ","
+    },
+    "lastRun": "0001-01-01T00:00:00",
+    "nextRun": "2020-11-12T23:52:00",
+    "createdDate": "2020-11-12T06:27:53.872128",
+    "cronExpression": "0 */4 * * *",
+    "timeZoneId": "India Standard Time",
+    "mappings": [
+        {
+            "attributeId": "0p32k3yq",
+            "fileAttributeName": "ProductID"
+        },
+        {
+            "attributeId": "gw4ne40d",
+            "fileAttributeName": "Name"
+        },
+        {
+            "attributeId": "g145xmxn",
+            "fileAttributeName": "Price"
+        },
+        {
+            "attributeId": "lrmg7m5p",
+            "fileAttributeName": "Currency"
+        }
+    ]
+}
