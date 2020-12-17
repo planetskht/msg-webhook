@@ -95,6 +95,13 @@ app.post('/inventory/v1/preview/header', function (req, res) {
    });
 })
 
+app.get('/preview', function (req, res) {
+   fs.readFile( __dirname + "/" + "preview.json", 'utf8', function (err, data) {
+      console.log( data );
+      res.end( data );
+   });
+})
+
 
 // Creates the endpoint for our webhook 
 app.post('/webhook', (req, res) => {  
