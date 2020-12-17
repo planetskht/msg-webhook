@@ -1,0 +1,24 @@
+{
+    "preview": [
+        {
+            "Price": 20,
+            "Image URL": "someImgUrl",
+            "Name": "Mobile"
+        },
+        {
+            "Price": 30,
+            "Image URL": "TVImgUrl",
+            "Name": "Tv"
+        },
+        {
+            "Price": 10,
+            "Image URL": "ShoeUrl",
+            "Name": "Shoes"
+        },
+        {
+            "Price": 2,
+            "Image URL": "JeansUrl",
+            "Name": "Jeans"
+        }
+    ]
+}
