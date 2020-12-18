@@ -1,24 +1,66 @@
 {
     "preview": [
         {
-            "Price": 20,
-            "Image URL": "someImgUrl",
-            "Name": "Mobile"
+            "price": 30.6,
+            "currency": "USD",
+            "image URL": "image//products//coffee4.jpg",
+            "name": "Coffee4",
+            "product ID": 1
         },
         {
-            "Price": 30,
-            "Image URL": "TVImgUrl",
-            "Name": "Tv"
+            "price": 30.56,
+            "currency": "USD",
+            "image URL": "image//products//coffee3.jpg",
+            "name": "Coffee3",
+            "product ID": 2
         },
         {
-            "Price": 10,
-            "Image URL": "ShoeUrl",
-            "Name": "Shoes"
+            "price": 50.73,
+            "currency": "USD",
+            "image URL": "image//products//coffee6.jpg",
+            "name": "Coffee6",
+            "product ID": 3
         },
         {
-            "Price": 2,
-            "Image URL": "JeansUrl",
-            "Name": "Jeans"
+            "price": 20.12,
+            "currency": "USD",
+            "image URL": "image//products//coffee8.jpg",
+            "name": "Coffee8",
+            "product ID": 4
+        },
+        {
+            "price": 50.9,
+            "currency": "USD",
+            "image URL": "image//products//coffee7.jpg",
+            "name": "Coffee7",
+            "product ID": 5
+        },
+        {
+            "price": 20.12,
+            "currency": "USD",
+            "image URL": "image//products//coffee1.jpg",
+            "name": "Coffee1",
+            "product ID": 6
+        },
+        {
+            "price": 40.29,
+            "currency": "USD",
+            "image URL": "image//products//coffee5.jpg",
+            "name": "Coffee5",
+            "product ID": 7
+        },
+        {
+            "price": 20.12,
+            "currency": "USD",
+            "image URL": "image//products//coffee2.jpg",
+            "name": "Coffee2",
+            "product ID": 8
+        },
+        {
+            "price": 148,
+            "currency": "USD",
+            "name": "SEAMED CREPE A-LINE DRESS",
+            "product ID": 9
         }
     ]
 }
